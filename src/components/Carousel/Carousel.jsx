@@ -1,4 +1,5 @@
-import "./carousel.css";
+import "./Carousel.css";
+
 
 const Carousel = () => {
     return (
